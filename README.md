@@ -1,5 +1,4 @@
 Battleship
-
 ---
 
 A Simple Java-Based Battleship Game
